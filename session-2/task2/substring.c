@@ -12,4 +12,13 @@
  5. implement the solution and compute the answer  
  6. print the answer appropriately as pointer, character and string
  */ 
+#include <stdio.h>
+#include <string.h>
 
+int main( void ) {
+    char str1[50] =  "The quick brown fox jumped over the lazy dog";
+
+
+    
+
+}
